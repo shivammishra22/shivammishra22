@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivammishra22&label=Profile%20views&color=0e75b6&style=flat" alt="shivammishra22" /> </p>
 
-- 🔭 I’m currently working in Innodata India Pvt. Lmt. **Data Annotation**
+
 
 - 🌱 I’m currently learning **SQL,Python,LLM,C++,Tensor Flow, Pytorch**
 
